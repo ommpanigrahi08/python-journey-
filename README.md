@@ -7,3 +7,9 @@ This repository contains my daily Python learning and projects.
 Day 1:
 - First Python program
 - Interactive input program
+
+Day 2:
+- Variables
+- Basic Inputs
+- Basic conditions
+- 
