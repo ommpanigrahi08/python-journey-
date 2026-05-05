@@ -16,4 +16,6 @@ Day 2:
 - Basic Comparisons
 
 Day 3:
-- 
+- Import function
+- Random Library
+- Making a basic guess the number game. 
