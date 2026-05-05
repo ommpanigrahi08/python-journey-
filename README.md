@@ -12,4 +12,8 @@ Day 2:
 - Variables
 - Basic Inputs
 - Basic conditions
+- Basic Operations
+- Basic Comparisons
+
+Day 3:
 - 
