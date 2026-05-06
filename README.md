@@ -18,4 +18,7 @@ Day 2:
 Day 3:
 - Import function
 - Random Library
-- Making a basic guess the number game. 
+- Making a basic guess the number game.
+
+Day 4:
+- Advanced the guess the number game to have multiple iterations and display number of guesses using loops. 
