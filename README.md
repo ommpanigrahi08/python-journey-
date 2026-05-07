@@ -21,4 +21,8 @@ Day 3:
 - Making a basic guess the number game.
 
 Day 4:
-- Advanced the guess the number game to have multiple iterations and display number of guesses using loops. 
+- Advanced the guess the number game to have multiple iterations and display number of guesses using loops.
+
+Day 5:
+-Advanced the guess the number of games to have limited number of attempts, further increasing the game feel. 
+
