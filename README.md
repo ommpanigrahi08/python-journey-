@@ -24,5 +24,5 @@ Day 4:
 - Advanced the guess the number game to have multiple iterations and display number of guesses using loops.
 
 Day 5:
--Advanced the guess the number of games to have limited number of attempts, further increasing the game feel. 
+- Advanced the guess the number of games to have limited number of attempts, further increasing the game feel. 
 
