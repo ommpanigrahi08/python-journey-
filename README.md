@@ -28,5 +28,8 @@ Day 5:
 
 Day 6:
 -def() function 
--Made a basic calculator that user can choose operation of
+-Made a basic calculator that user can choose operation of.
+
+Day 7:
+-Made a functioning task managing program which can actually be used in daily life. Used lists, and list traversal. 
 
