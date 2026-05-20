@@ -33,3 +33,6 @@ Day 6:
 Day 7:
 -Made a functioning task managing program which can actually be used in daily life. Used lists, and list traversal. 
 
+Day 8:
+-Upgrading the task manager by adding numbers to tasks, allowing users to operate thee program with numbers instead of writing out sentences.
+
