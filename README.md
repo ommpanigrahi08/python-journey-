@@ -27,12 +27,12 @@ Day 5:
 - Advanced the guess the number of games to have limited number of attempts, further increasing the game feel.
 
 Day 6:
--def() function 
--Made a basic calculator that user can choose operation of.
+- def() function 
+- Made a basic calculator that user can choose operation of.
 
 Day 7:
--Made a functioning task managing program which can actually be used in daily life. Used lists, and list traversal. 
+- Made a functioning task managing program which can actually be used in daily life. Used lists, and list traversal. 
 
 Day 8:
--Upgrading the task manager by adding numbers to tasks, allowing users to operate thee program with numbers instead of writing out sentences.
+- Upgrading the task manager by adding numbers to tasks, allowing users to operate thee program with numbers instead of writing out sentences.
 
